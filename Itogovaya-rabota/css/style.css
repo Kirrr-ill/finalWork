@@ -143,12 +143,14 @@ button {
 }
 .header.open .header-burger-menu span:nth-child(1) {
   transform: translateY(0) rotate(45deg);
+  background-color: #ef2a82;
 }
 .header.open .header-burger-menu span:nth-child(2) {
   opacity: 0;
 }
 .header.open .header-burger-menu span:nth-child(3) {
   transform: translateY(0) rotate(-45deg);
+  background-color: #ef2a82;
 }
 .header-burger-menu:hover {
   opacity: 0.6;
